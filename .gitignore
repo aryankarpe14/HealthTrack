@@ -1,0 +1,29 @@
+# Java
+*.class
+*.jar
+target/
+*.war
+
+# IDE
+.vscode/
+.idea/
+*.iws
+*.iml
+*.ipr
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled
+out/
+bin/
+
+# Dependencies
+lib/
+
